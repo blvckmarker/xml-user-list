@@ -1,0 +1,17 @@
+D:\Projects\UserList\UserList\bin\Debug\net6.0-windows\UserList.exe
+D:\Projects\UserList\UserList\bin\Debug\net6.0-windows\UserList.deps.json
+D:\Projects\UserList\UserList\bin\Debug\net6.0-windows\UserList.runtimeconfig.json
+D:\Projects\UserList\UserList\bin\Debug\net6.0-windows\UserList.dll
+D:\Projects\UserList\UserList\bin\Debug\net6.0-windows\UserList.pdb
+D:\Projects\UserList\UserList\obj\Debug\net6.0-windows\UserList.csproj.AssemblyReference.cache
+D:\Projects\UserList\UserList\obj\Debug\net6.0-windows\WF.Form1.resources
+D:\Projects\UserList\UserList\obj\Debug\net6.0-windows\UserList.csproj.GenerateResource.cache
+D:\Projects\UserList\UserList\obj\Debug\net6.0-windows\UserList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\UserList\UserList\obj\Debug\net6.0-windows\UserList.AssemblyInfoInputs.cache
+D:\Projects\UserList\UserList\obj\Debug\net6.0-windows\UserList.AssemblyInfo.cs
+D:\Projects\UserList\UserList\obj\Debug\net6.0-windows\UserList.csproj.CoreCompileInputs.cache
+D:\Projects\UserList\UserList\obj\Debug\net6.0-windows\UserList.dll
+D:\Projects\UserList\UserList\obj\Debug\net6.0-windows\refint\UserList.dll
+D:\Projects\UserList\UserList\obj\Debug\net6.0-windows\UserList.pdb
+D:\Projects\UserList\UserList\obj\Debug\net6.0-windows\UserList.genruntimeconfig.cache
+D:\Projects\UserList\UserList\obj\Debug\net6.0-windows\ref\UserList.dll
