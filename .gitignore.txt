@@ -1,3 +1,0 @@
-UserList/obj
-UserList/bin
-.vs/
